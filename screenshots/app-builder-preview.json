@@ -1,0 +1,39 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "LumenPlot",
+      "hasCanvas": true,
+      "bodyTextLen": 2749,
+      "bodyTextHash": "75685b5b8f51913d249be40d86617e6bc7b0ea82f4719fea452e2a497badd50f",
+      "bodyTextPrefix": "LumenPlot SCIENTIFIC STUDIO New Sheet CSV Demo data UV-Vis peaks",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "LumenPlot",
+      "hasCanvas": true,
+      "bodyTextLen": 403,
+      "bodyTextHash": "08929e9e2f7ab7df8143cc6cdaba517f6cd5c13b82ffed0e80c51d5bc1887f31",
+      "bodyTextPrefix": "LumenPlot SCIENTIFIC STUDIO New Sheet CSV Demo data UV-Vis peaks",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND WARNING: this looks like a game/canvas app but src/lib/og/site.json is missing \"type\": \"x:game\". X uses og:type=x:game to present the unfurl as a game card — set it in /workspace/src/lib/og/site.json per /workspace/.grok/skills/og/SKILL.md. Do not invent x:type or overload twitter:card as the game signal.",
+    "BRAND WARNING: this looks like a game/canvas app but /workspace/public/x-banner.jpg is missing. Games need a 50:11 X feed card (1200×264 JPEG) at public/x-banner.jpg — open /workspace/.grok/skills/og/SKILL.md and finish the brand-asset pass."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
