@@ -1,6 +1,6 @@
 # GraphisDatum
 
-Free, in-browser scientific graphing and data-analysis studio. Built for publication-quality figures, Origin-style workbooks, curve fitting, peak tools, and one-click export.
+Free, in-browser scientific graphing and data-analysis studio. Built for publication-quality figures, Workbooks, curve fitting, peak tools, and one-click export.
 
 ## What it does
 
