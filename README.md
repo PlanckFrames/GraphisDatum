@@ -1,8 +1,6 @@
-# LumenPlot
+# GraphisDatum
 
 Free, in-browser scientific graphing and data-analysis studio. Built for publication-quality figures, Origin-style workbooks, curve fitting, peak tools, and one-click export.
-
-Not affiliated with OriginLab. LumenPlot is an independent, browser-native tool with its own visual language (ink chrome, steel traces, warm paper plots).
 
 ## What it does
 
@@ -15,17 +13,10 @@ Not affiliated with OriginLab. LumenPlot is an independent, browser-native tool 
 - Descriptive statistics
 - Column formulas
 - CSV import, demo datasets (UV-Vis, kinetics, Arrhenius, dose-response, grouped assay, 3D surface, oscillator)
-- Export: **CSV**, **PDF**, **JPG**, **PNG**, and **NPG** (PNG bytes, `.npg` filename)
+- Export: **CSV**, **PDF**, **JPG**, and **PNG**.
 
 Projects persist in the browser (localStorage) and can be downloaded as JSON.
 
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
 ## Stack
 
-React 19, TanStack Start, Tailwind v4, Zustand, custom Canvas 2D engine (no Origin runtime).
+React 19, TanStack Start, Tailwind v4, Zustand, custom Canvas 2D engine
